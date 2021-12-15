@@ -1,6 +1,10 @@
 # File Grabber 
 ##### _Grab Files_ 
 
+## Idea Behind Developing it:
+    In order to grab files imediately by injecting USB to any pc in order
+    to collecting data about victim than this tool comes in and by using it you can just enter a rejex line or either the keyword or text than it will grab the data what you want!
+
 File Grabber is tool like you can find any files by entering the range and format and it will copy that file and paste it into USB 
 
 - Work Smarlty 
@@ -31,6 +35,7 @@ Either you can use built in exe file
 - [ ] Hide From Task Manager
 - [ ] AutoRun USB integration
 - [ ] Multiprocessing in order to capturing the file list and than on runtime it should have to copy that files.
+- [ ] Normal text field should be added in order to just find like emails or keywords or stuff like data etc by scanning files
 
 ## License
 
