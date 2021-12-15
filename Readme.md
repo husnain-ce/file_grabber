@@ -2,9 +2,10 @@
 ##### _Grab Files_ 
 
 ## Idea Behind Developing it:
-    In order to grab files imediately by injecting USB to any pc in order
-    to collecting data about victim than this tool comes in and by using 
-    it you can just enter a rejex line or either the keyword or text than it will grab the data what you want!
+
+In order to grab files imediately by injecting USB to any pc in order
+to collecting data about victim than this tool comes in and by using 
+it you can just enter a rejex line or either the keyword or text than it will grab the data what you want!
 
 File Grabber is tool like you can find any files by entering the range and format and it will copy that file and paste it into USB 
 
